@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Yu's blogs'
+title = "Yu's blogs"
 theme = 'hugo-book'
 enableGitInfo = true
